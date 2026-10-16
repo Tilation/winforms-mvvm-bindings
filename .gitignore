@@ -1,0 +1,6 @@
+/.vs
+/src/artifacts
+/src/Tilation.WinForms.MvvmBindings.Tests/bin
+/src/Tilation.WinForms.MvvmBindings.Tests/obj
+/src/Tilation.WinForms.MvvmBindings/bin
+/src/Tilation.WinForms.MvvmBindings/obj

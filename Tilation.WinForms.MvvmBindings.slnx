@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Tilation.WinForms.MvvmBindings.Tests/Tilation.WinForms.MvvmBindings.Tests.csproj" />
+  <Project Path="src/Tilation.WinForms.MvvmBindings/Tilation.WinForms.MvvmBindings.csproj" />
+</Solution>
